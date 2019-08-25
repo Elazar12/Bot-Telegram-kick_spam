@@ -16,4 +16,4 @@
 
 <h5><p align="right">לכל בעיה</h5></p>
 
-<a href="https://t.me/elazar12"><p align="right">לחץ עלי</a></p>
+<p align="right"><a href="https://t.me/elazar12">לחץ עלי</a></p>
